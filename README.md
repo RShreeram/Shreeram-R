@@ -3,7 +3,7 @@
 🚀 Passionate about AI, Data Analytics & Cloud Computing  
 
 ## 👀 About Me  
-- 🎓 **Student at Dr. MGR Educational and Research Institute**  
+- 🎓 ** Complited my UG at Dr. MGR Educational and Research Institute**  
 - 🤖 Passionate about **Artificial Intelligence & Data Science**  
 - ☁️ Exploring **Cloud Computing & Serverless Technologies**  
 - 🛠️ Love working with **Python, Machine Learning, and IBM Cloud**
