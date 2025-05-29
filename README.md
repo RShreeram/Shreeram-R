@@ -1,5 +1,5 @@
-# Shree29
-# 👋 Hi, I'm Shreeram Ramchandran!  
+# Shree
+# 👋 Hi, I'm Shreeram R !  
 🚀 Passionate about AI, Data Analytics & Cloud Computing  
 
 ## 🔥 Skills & Technologies  
